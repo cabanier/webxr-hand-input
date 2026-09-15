@@ -81,7 +81,7 @@ Status Text: This WebXR Augmented Reality Module is designed as a module to be i
 
 
 <pre class="link-defaults">
-spec: webxr-1;
+spec: webxr;
     type: dfn; text: xr device; for: /
     type: dfn; text: xr device; for: XRSession
     type: dfn; text: animation frame; for: XRSession
@@ -89,6 +89,7 @@ spec: webxr-1;
     type: dfn; text: native origin
     type: dfn; text: feature descriptor
     type: dfn; text: populate the pose
+    type: dfn; text: active; for: XRFrame
     type: dfn; text: session; for: XRFrame
     type: dfn; text: time; for: XRFrame
     type: dfn; text: session; for: XRSpace
